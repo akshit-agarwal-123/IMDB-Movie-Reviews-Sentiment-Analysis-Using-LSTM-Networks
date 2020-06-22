@@ -1,4 +1,4 @@
-# Predicting Hit Songs on Spotify using Deep Feedforward Neural Nets
+# IMDB Movie Reviews Sentiment Analysis using LSTM (Long-Short Term Memory) Networks
 This project performs sentiment analysis by classification an IMDB movie review into positive (1) and negative (0)
 
 ### Description of the Dataset
