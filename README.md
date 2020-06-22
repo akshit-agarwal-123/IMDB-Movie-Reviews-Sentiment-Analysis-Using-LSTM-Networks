@@ -16,7 +16,6 @@ The overall distribution of labels is balanced. You can learn more about this da
 * [sklearn](http://scikit-learn.org/stable/documentation.html) - Scikit-learn is a free software machine learning library for the Python 
 * [numpy](http://www.numpy.org/) - NumPy is the fundamental package for scientific computing
 * [pandas](https://pandas.pydata.org/) - Pandas is a software library used for data manipulation and analysis
-* [pprint](https://python.readthedocs.io/en/stable/library/pprint.html#module-pprint) - The pprint module provides a capability to “pretty-print” arbitrary Python data structures in a form which can be used as input to the interpreter.
 
 
 ### Steps of Appylying the Machine Algorithm
