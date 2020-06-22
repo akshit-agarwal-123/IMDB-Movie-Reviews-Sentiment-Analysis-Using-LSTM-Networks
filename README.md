@@ -1,4 +1,4 @@
-# Sentiment Analysis of IMDB Movie Reviews using LSTM (Long-Short Term Memory) Networks
+# Predicting Hit Songs on Spotify using Deep Feedforward Neural Nets
 This project performs sentiment analysis by classification an IMDB movie review into positive (1) and negative (0)
 
 ### Description of the Dataset
@@ -17,6 +17,7 @@ The overall distribution of labels is balanced. You can learn more about this da
 * [sklearn](http://scikit-learn.org/stable/documentation.html) - Scikit-learn is a free software machine learning library for the Python 
 * [numpy](http://www.numpy.org/) - NumPy is the fundamental package for scientific computing
 * [pandas](https://pandas.pydata.org/) - Pandas is a software library used for data manipulation and analysis
+* [pprint](https://python.readthedocs.io/en/stable/library/pprint.html#module-pprint) - The pprint module provides a capability to “pretty-print” arbitrary Python data structures in a form which can be used as input to the interpreter.
 
 
 ### Steps of Appylying the Machine Algorithm
@@ -59,7 +60,7 @@ loss function: `binary_crossentropy`
 **Accuracy**: 55.15%  
 
 ### Author
-[Akshit Agarwal](https://github.com/123)
+[Akshit Agarwal](https://www.linkedin.com/in/akshit-agarwal93/)
 
 ### Citations
  - Maas, A., Daly, R. E., Pham, P. T., Huang, D., Ng, A. Y., & Potts, C. (2011, June). Learning word vectors for sentiment analysis. In Proceedings of the 49th annual meeting of the association for computational linguistics: Human language technologies (pp. 142-150).
