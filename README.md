@@ -3,8 +3,7 @@ This project performs sentiment analysis by classification an IMDB movie review 
 
 ### Description of the Dataset
 The core dataset contains 50,000 reviews split evenly into 25,000 training and 25,000 testing sets. 
-The overall distribution of labels is balanced. You can learn more about this dataset:   
-[http://ai.stanford.edu/~amaas/data/sentiment/]
+The overall distribution of labels is balanced. You can learn more about this dataset: http://ai.stanford.edu/~amaas/data/sentiment/
 
 ### Features
 - **Review**: IMDB Moview Review Text.
