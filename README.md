@@ -23,7 +23,7 @@ The overall distribution of labels is balanced. You can learn more about this da
 **Step 1**. Get data using `get_reviews_data` <br/>
  - loops through multiple text files, imports the reviews into a list, cleans, and stores it into pandas dataframe
 
-**Step 2**. Prepares the data for machine learning using `preproces_text_data` <br/>
+**Step 2**. Prepares the data for machine learning using `preprocess_text_data` <br/>
  - tokenizes the Textual data
  - creates a padded sequence of numbers representing the textual review data
  - returns a numpy array
